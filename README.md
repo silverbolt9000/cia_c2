@@ -94,16 +94,6 @@ http://localhost:5000/dashboard
 
 ---
 
-## 📌 Próximos módulos sugeridos
-
-- [ ] Captura de tela remota
-- [ ] Upload/download de arquivos
-- [ ] Persistência em inicialização
-- [ ] Criptografia dos pacotes
-- [ ] Interface com autenticação
-
----
-
 ## 👨‍💻 Autor
 
 Desenvolvido com fins educacionais e inspirado no estudo das ferramentas do Vault 7.  
