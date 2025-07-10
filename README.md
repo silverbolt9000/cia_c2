@@ -96,7 +96,7 @@ http://localhost:5000/dashboard
 
 ## 👨‍💻 Autor
 
-Desenvolvido com fins educacionais e inspirado no estudo das ferramentas do Vault 7.  
-Implementado com Python + Flask + HTML (Bootstrap).
+Desenvolvido com fins educacionais e inspirado no estudo das ferramentas do Vault 7 liberado pela CIA.  
+Implementado com Python + Flask + HTML (Bootstrap) com trabalho de engenharia reversa.
 
 ---
